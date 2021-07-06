@@ -63,4 +63,4 @@ Uses
 
 ## Attention
 
-本项目是对 [Sis](https://github.com/SisMaker) 的 [eAcs](http://47.108.26.175:53000/SisMaker/eAcs) 项目进行了代码风格调整，使之更贴近社区规则
+本项目是对 [Sis](https://github.com/SisMaker) 的 [eAcs](http://47.108.26.175:53000/SisMaker/eAcs) 项目进行了代码风格调整，使之更贴近社区规范
