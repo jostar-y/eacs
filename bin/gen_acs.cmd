@@ -1,2 +1,2 @@
 @echo off
-C:\soft\erl-23.3.1\bin\escript.exe "%~dpn0" %*
+escript.exe "%~dpn0" %*
