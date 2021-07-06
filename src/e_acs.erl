@@ -2,9 +2,9 @@
 
 -export([
    match_sw/1                 %% 返回匹配的敏感词列表
-   , is_has_sw/1               %% 检查是否包含敏感词
+   , is_has_sw/1              %% 检查是否包含敏感词
    , replace_sw/1             %% 替换敏感词
-   , is_has_rp_sw/1             %% 检测并替换敏感词
+   , is_has_rp_sw/1           %% 检测并替换敏感词
    , str_size/2               %% 获取utf8字符串的长度
 ]).
 
